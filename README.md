@@ -20,4 +20,7 @@ Company XYZ (fictional) is hiring you as a data scientist in order to get practi
 
 It's up to you to report what is the best approach the company should have based on your findings.
 
-Note: The dataset is not mine. I got it from this repository: https://github.com/nailson/ifood-data-business-analyst-test
+Raw data: data.csv
+After EDA: ML_data.csv
+
+Note: The raw dataset is not mine. I got it from this repository: https://github.com/nailson/ifood-data-business-analyst-test
