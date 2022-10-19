@@ -5,7 +5,7 @@ This project is part of my data science learning journey. Feel free to send me a
 
 **What you will see in these notebooks:**  
 **Initial data preprocessing:** missing values, typo fixing, categorical to numeric encoding.  
-**Exploratory Data Analysis:** correlation matrix, data visualization with plotly.  
+**Exploratory Data Analysis:** data visualization with plotly, hypothesis testing, ANOVA, permutation test, posthoc test using Mann-Whitney U test.  
 **Clusterization:** customer segmentation with KMeans and PCA, analysis and interpretation of each cluster.  
 **Machine Learning evaluation:** false positives and false negatives, precion-recall, AUC.  
 **Feature selection:** correlation, SelectKBest with chi2, Recursive Feature Extraction with linear model and tree based model.  
