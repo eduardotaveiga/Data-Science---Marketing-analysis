@@ -71,7 +71,7 @@ Eduardo Veiga - [LinkedIn](https://www.linkedin.com/in/eduardo-veiga-0728221a6/)
 
 Email - etaveiga@gmail.com
 
-Project Link: [https://github.com/eduardotaveiga/Data-Science---Min-Max_Classification](https://github.com/eduardotaveiga/Data-Science---Marketing-analysis)
+Project Link: [https://github.com/eduardotaveiga/Data-Science---Marketing-analysis](https://github.com/eduardotaveiga/Data-Science---Marketing-analysis)
 
 ## Acknowledgments
 * Raw data: data.csv
