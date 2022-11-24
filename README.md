@@ -59,6 +59,14 @@ It's up to you to analyse the dataset aiming to provide a better understanding o
 **Model selection:** precision-recall curve, threshold selection based on expected value structure.  
 **Model predictions:** understanding model predictions with SHAP values.  
 
+## Results
+
+Check out the final report! *work in progress*
+
+But, if you want more code detailed information, see the jupyter notebooks or the following google colab notebooks:
+
+
+
 ---
 ## License
 
@@ -77,8 +85,6 @@ Project Link: [https://github.com/eduardotaveiga/Data-Science---Marketing-analys
 * Raw data: data.csv
 * After EDA: ML_data.csv  
 * The raw dataset is not mine. I got it from [this repository]
-* See the *EDA and Segmentation* and *Machine Learning* notebooks for code detailed information!
-
 
 [this repository]:https://github.com/nailson/ifood-data-business-analyst-test
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
