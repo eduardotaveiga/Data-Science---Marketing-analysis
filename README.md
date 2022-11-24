@@ -65,6 +65,9 @@ Check out the final report! *work in progress*
 
 But, if you want more code detailed information, see the jupyter notebooks or the following google colab notebooks:
 
+EDA and Segmentation: https://colab.research.google.com/drive/17amCL69M1Rekokgo-CJslV13zp90s6tg?usp=sharing
+
+Machine Learning: https://colab.research.google.com/drive/1PxARUYtOKOX-Bax0xpitGOo4RDnUoz6k?usp=sharing
 
 
 ---
