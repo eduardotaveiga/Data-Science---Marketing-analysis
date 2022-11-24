@@ -1,7 +1,38 @@
-# Data-Science---Marketing-analysis
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+<div class="alert alert-block alert-info">
+<b><h2><center>Data Science Project - Marketing</center></h2></b>
+</div>
 Exploratory Data Analysis and Machine Learning for a marketing dataset.
 
 This project is part of my data science learning journey. Feel free to send me a message regarding tips of any kind, like statistics, machine learning, visualizations, or even english grammar, I will be grateful. I hope that you find something useful here and learn with me too!
+
+---
+## Roadmap
+*This work is currently in progress*
+- [x] Exploratory Data Analysis
+    - [x] Data cleaning
+    - [x] Data analysis
+- [x] Customer segmentation
+    - [x] KMeans and PCA
+    - [x] Cluster analysis
+        - [x] Characteristics
+        - [x] Consumption
+- [x] Recommendations
+- [x] Basic ML models 
+    - [x] Evaluation
+    - [x] Feature selection
+    - [x] Model benchmark
+    - [x] Hyperparameter tuning
+    - [x] Predictions and SHAP values
+- [ ] Model deployment
+    - [ ] Web application using Dash
+---
+
 
 **What you will see in these notebooks:**  
 **Initial data preprocessing:** missing values, typo fixing, categorical to numeric encoding.  
