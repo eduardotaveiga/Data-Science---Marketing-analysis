@@ -31,7 +31,7 @@ This project is part of my data science learning journey. Feel free to send me a
     - [x] Predictions and SHAP values
 - [ ] Model deployment
     - [ ] Web application using Dash
-- [ ] Final report
+- [x] Final report
 ---
 
 ## About the project
@@ -61,7 +61,7 @@ It's up to you to analyse the dataset aiming to provide a better understanding o
 
 ## Results
 
-Check out the final report! *work in progress*
+Check out my final report: https://cloud.datapane.com/apps/E7PKMq3/data-science-project-marketing-report/
 
 But, if you want more code detailed information, see the jupyter notebooks or the following google colab notebooks:
 
