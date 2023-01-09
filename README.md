@@ -90,11 +90,11 @@ Project Link: [https://github.com/eduardotaveiga/Data-Science---Marketing-analys
 * The raw dataset is not mine. I got it from [this repository]
 
 [this repository]:https://github.com/nailson/ifood-data-business-analyst-test
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/eduardotaveiga/Data-Science---Marketing-analysis/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/eduardotaveiga/Data-Science---Marketing-analysis/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/eduardotaveiga/Data-Science---Marketing-analysis/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/eduardo-veiga-0728221a6/
+[stars-shield]:https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-url]:https://github.com/eduardotaveiga/Data-Science---Marketing-analysis/stargazers
+[issues-shield]:https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-url]:https://github.com/eduardotaveiga/Data-Science---Marketing-analysis/issues
+[license-shield]:https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-url]:https://github.com/eduardotaveiga/Data-Science---Marketing-analysis/blob/main/LICENSE
+[linkedin-shield]:https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]:https://www.linkedin.com/in/eduardo-veiga-0728221a6/
