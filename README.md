@@ -29,8 +29,8 @@ This project is part of my data science learning journey. Feel free to send me a
     - [x] Model benchmark
     - [x] Hyperparameter tuning
     - [x] Predictions and SHAP values
-- [ ] Model deployment
-    - [ ] Web application using Dash
+- [x] Model deployment
+    - [x] Web application using Dash
 - [x] Final report
 ---
 
